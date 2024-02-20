@@ -1,0 +1,32 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width:100vw;
+  height:80vh;
+  background-color: rgb(241, 219, 249);
+}
+
+.container{
+  padding:40px;
+  display: flex;
+  max-width:45vw;
+  flex-wrap: wrap;
+  overflow-y: scroll;
+  height: 80vh;
+  gap:30px;
+  scrollbar-width: 0px;
+  scrollbar-color: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
